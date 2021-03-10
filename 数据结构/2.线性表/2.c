@@ -1,0 +1,1 @@
+bool reload(SqList L,ElemType)
